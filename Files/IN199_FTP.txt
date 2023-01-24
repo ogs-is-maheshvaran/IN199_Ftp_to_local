@@ -1,0 +1,1 @@
+sample ftp to local
